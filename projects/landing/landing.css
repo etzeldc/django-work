@@ -1,0 +1,29 @@
+body {
+    background: #181862;
+    color: #A9A95F;
+    border: 50px solid #A9A95F;
+    border-top: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Faustina', serif;
+}
+
+p {
+    padding-top: 50px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.input {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+#sub {
+    border-radius: 20px;
+    background: #D1A972;
+    height: 60px;
+    width: 120px;
+    font-size: 1.25em;
+    margin-bottom: 10px;
+}
